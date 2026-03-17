@@ -1,0 +1,6 @@
+com/ainative/mcp/client/controller/ChatController.class
+com/ainative/mcp/client/controller/HealthController.class
+com/ainative/mcp/client/service/ChatClientService.class
+com/ainative/mcp/client/service/McpClientService.class
+com/ainative/mcp/client/controller/McpClientController.class
+com/ainative/mcp/client/McpClientApplication.class
